@@ -1,10 +1,10 @@
-def multiply:
-    Return a*b
-a=int(input(‘enter a num’))
-b=int(input(‘enter another number’))
+def multiply(a,b):
+    return a*b
+a=int(input("enter a num"))
+b=int(input("enter another number"))
+print(multiply(a,b))
 
 def square(num):
     return num * num
-
-
-square  
+num=int(input("enter a num"))
+print(square(num))
