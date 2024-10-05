@@ -1,8 +1,7 @@
 a=3
 b=4
-print(a+b+c)
+print(a+b)
 
-x = 5
-y = z  
-
+x = "5"
+y = "z"  
 print(x + y)
